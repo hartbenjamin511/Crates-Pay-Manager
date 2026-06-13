@@ -25,7 +25,6 @@ from datetime import date, datetime
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Tuple
 
-import cv2
 import pandas as pd
 import pytesseract
 from PIL import Image, ImageTk
